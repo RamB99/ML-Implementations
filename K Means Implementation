@@ -1,5 +1,5 @@
 % EC 414 - HW 4 - Spring 2020
-% K-Means starter code
+% K-Means Implementation
 % Raghurama Bukkarayasamudram
 % U43170050
 clear, clc, close all,
